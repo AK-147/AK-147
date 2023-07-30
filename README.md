@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/JavaScript-C1B942?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-R-grey?logo=r&logoColor=white&style=for-the-badge" alt="R"/>
     <img src="https://img.shields.io/badge/SQL-3CB371?style=for-the-badge" alt="SQL"/>
+    <img src="https://img.shields.io/badge/MATLAB-FF6347?style=for-the-badge" alt="MATLAB"/>
   </div>
 
   <div class="section">
