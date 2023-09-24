@@ -29,6 +29,19 @@
   </div>
 
   <div class="section">
+    <h2>:hammer_and_wrench: 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜/𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜</h2>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/Matplotlib-004088?style=for-the-badge" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Seaborn-668d96?style=for-the-badge" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Flask-009688?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </div>
+
+  <div class="section">
     <h2>:mailbox: 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎</h2>
     <a href="mailto:ak.767076.147@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
